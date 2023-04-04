@@ -1,4 +1,4 @@
-#Restaurant Review API
+Restaurant Review API
 
 
 This basically provides a user the ability to review a restaurant with each user's score being stored separately. Also, each restaurant is rated based on its compatibility with different food allergens.A user can later search for restaurants based on these scores.This involves the following
